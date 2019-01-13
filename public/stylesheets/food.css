@@ -352,8 +352,8 @@ nav ul li a {
 
 /* button */
 .btn{
-    width: 145px;
-    height: 53px;
+    width: 50%;
+    height: 10%;
     color: #fff;
     text-transform: uppercase;
     border-radius: 0;
