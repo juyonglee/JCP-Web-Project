@@ -29,9 +29,16 @@
 	margin:0;
 	font:bold 1.2em Raleway,arial;
 	background-color:#ee955b;
-	color:#FFF;
+	color:#1a1a1a;
 	border-bottom:1px solid #ee955b;
 	padding:10px 0 10px 5px;
+}
+
+#alertBox h4 {
+	color:#1a1a1a;
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%
 }
 
 #alertBox p {
@@ -52,6 +59,7 @@
 	text-transform:uppercase;
 	text-align:center;
 	color:#FFF;
+	font-weight: 300;
 	background-color:#ee955b;
 	border-radius: 0px;
 	text-decoration:none;
@@ -75,7 +83,7 @@ h1,h2 {
 }
 
 code {
-	font-size:1.9em;
+	font-size:20px;
 	color:#069;
 }
 

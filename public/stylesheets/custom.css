@@ -31,7 +31,7 @@ header {
     margin: 16px 46px;
     color: #fff;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     letter-spacing: 2px;
 }
 
@@ -66,12 +66,14 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #fff;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 350;
 }
 .act{
     font:bold;
     color: #ee955b;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 350;
 }
 
 .menu-icon {
@@ -150,7 +152,7 @@ nav ul li a {
 }
 .post-slide .category {
     width: 20%;
-    font-size: 16px;
+    font-size: 15px;
     color: #fff;
     line-height: 11px;
     text-align: center;
@@ -175,7 +177,7 @@ nav ul li a {
 }
 .post-slide .post-title a{
     display: inline-block;
-    font-size: 16px;
+    font-size: 22px;
     color: #ff9412;
     font-weight: bold;
     letter-spacing: 2px;
@@ -188,7 +190,8 @@ nav ul li a {
     color: #555;
 }
 .post-slide .post-description{
-    font-size: 15px;
+    font-size: 17px;
+    font-weight: 300;
     color: #555;
     line-height: 26px;
 }

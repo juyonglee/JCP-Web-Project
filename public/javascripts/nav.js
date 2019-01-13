@@ -44,7 +44,7 @@ function createCustomAlert(txt) {
 	h1 = alertObj.appendChild(d.createElement("h1"));
 	h1.appendChild(d.createTextNode(ALERT_TITLE));
 
-	msg = alertObj.appendChild(d.createElement("p"));
+	msg = alertObj.appendChild(d.createElement("h4"));
 	//msg.appendChild(d.createTextNode(txt));
 	msg.innerHTML = txt;
 
