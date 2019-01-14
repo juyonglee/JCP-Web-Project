@@ -80,3 +80,7 @@ function coming() {
 function send() {
 		alert("잔액이 부족합니다.")
 	  }
+
+function send_qr() {
+	alert("로그인이 필요합니다.")
+}

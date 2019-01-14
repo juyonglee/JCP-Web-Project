@@ -28,10 +28,9 @@ header {
     line-height: 60px;
     position: fixed;
     float: left;
-    margin: 16px 46px;
+    margin: 5px 10px;
     color: #fff;
     font-weight: bold;
-    font-size: 22px;
     letter-spacing: 2px;
 }
 
@@ -61,7 +60,7 @@ nav.black ul {
 
 nav ul li {
     display: inline-block;
-    padding: 16px 40px;;
+    padding: 10px 20px;;
 }
 
 nav ul li a {
@@ -125,7 +124,6 @@ nav ul li a {
 
 /* news */
 .post-slide{
-    margin: 0 15px;
     border-bottom: 1px solid #dadada;
     box-shadow: 0 0 5px rgba(167, 197, 167, 0.8);
     transition: all 0.4s ease-in-out 0s;

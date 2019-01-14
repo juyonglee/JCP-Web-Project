@@ -33,10 +33,9 @@ body {
     line-height: 60px;
     position: fixed;
     float: left;
-    margin: 16px 46px;
+    margin: 5px 10px;
     color: #fff;
     font-weight: bold;
-    font-size: 22px;
     letter-spacing: 2px;
 }
 
@@ -45,13 +44,6 @@ nav {
     position: fixed;
     width: 100%;
     line-height: 60px;
-}
-
-.act{
-    font:bold;
-    color: #ee955b;
-    font-size: 18px;
-    font-weight: 350;
 }
 
 nav ul {
@@ -73,7 +65,14 @@ nav.black ul {
 
 nav ul li {
     display: inline-block;
-    padding: 16px 40px;;
+    padding: 10px 20px;;
+}
+
+.act{
+    font:bold;
+    color: #ee955b;
+    font-size: 18px;
+    font-weight: 350;
 }
 
 nav ul li a {
