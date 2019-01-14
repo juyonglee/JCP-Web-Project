@@ -27,7 +27,8 @@ header {
 .act{
     font:bold;
     color: #ee955b;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 350;
 }
 .logo {
     line-height: 60px;
@@ -36,11 +37,12 @@ header {
     margin: 16px 46px;
     color: #fff;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     letter-spacing: 2px;
 }
 
 nav {
+    z-index: 9999;
     position: fixed;
     width: 100%;
     line-height: 60px;
@@ -71,7 +73,8 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #fff;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 350;
 }
 
 .menu-icon {
